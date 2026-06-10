@@ -78,6 +78,14 @@ It does not include:
 - Troubleshooting
 - Technical documentation
 - Client-focused delivery
+  ## Repository Contents
+
+- [Project Summary](project-summary.md)
+- [Migration Checklist](migration-plan/migration-checklist.md)
+- [AWS Hosting Architecture](architecture/aws-hosting-architecture.md)
+- [DNS Cutover Plan](dns/dns-cutover-plan.md)
+- [Security Considerations](security/security-considerations.md)
+- [Lessons Learned](lessons-learned.md)
 
 ## Lessons Learned
 
